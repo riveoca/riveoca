@@ -3,6 +3,8 @@
 **Estudiante de Ingeniería Mecatrónica · Desarrollador de software**  
 📍 Bogotá, Colombia · 🌐 [riveoca.github.io](https://riveoca.github.io)
 
+🇪🇸 Español · [🇬🇧 English](#-english)
+
 ---
 
 ## Sobre mí
@@ -10,6 +12,8 @@
 - Desarrollo web con **PHP + Laravel** y herramientas en **Python**
 - Estudiante de **Ingeniería Mecatrónica en la Universidad ECCI** (jornada nocturna)
 - Me gusta unir el software con el mundo físico: sensores, actuadores y **Raspberry Pi**
+
+**Actualmente:** construyendo un asistente de voz en Raspberry Pi 5 y aprendiendo FastAPI y QML.
 
 ---
 
@@ -55,15 +59,16 @@ Asistente de voz casero que corre por completo en una Raspberry Pi 5, con pantal
 ---
 
 ## Proyectos
-- [Gestión de horarios y usuarios](https://github.com/riveoca/proyecto_practicas_laravel) – Laravel 12 + FullCalendar
+- [Tareas IA → Jira](https://github.com/riveoca/tareas) – FastAPI + IA (Claude / Ollama) + Jira Cloud: desglosa el trabajo en tareas y muestra el avance del sprint
+- [Gestión de horarios y usuarios](https://github.com/riveoca/proyecto_practicas_laravel) – Laravel 12 + FullCalendar + API con JWT
 - **Extracción de datos y APIs** – Python + scraping + Postman (práctica en Servitel, código privado)
 - [Portafolio personal](https://github.com/riveoca/riveoca.github.io) – HTML + CSS + JavaScript
 
 ---
 
-## Stats
+## Lenguajes más usados
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riveoca&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riveoca&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -74,3 +79,24 @@ Asistente de voz casero que corre por completo en una Raspberry Pi 5, con pantal
   <a href="https://riveoca.github.io"><img src="https://img.shields.io/badge/Portafolio-0E1A2E?style=for-the-badge&logo=githubpages&logoColor=F2A900"/></a>
   <a href="https://docs.google.com/document/d/1eE8g6vDCdR7_pvfHdOBdDVuwk4oe_9WVJvGZGj9wXfw/export?format=pdf"><img src="https://img.shields.io/badge/CV-PDF-F2A900?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 </p>
+
+---
+
+## 🇬🇧 English
+
+**Mechatronics Engineering student · Software developer** · Bogotá, Colombia
+
+- Six-month internship as a **developer at Servitel**: API endpoints, data extraction with web scraping and chatbots with local AI
+- Web development with **PHP + Laravel** and tools in **Python**
+- **Mechatronics Engineering** student at Universidad ECCI (evening program)
+- I like connecting software with the physical world: sensors, actuators and **Raspberry Pi**
+
+**Currently:** building a voice assistant on a Raspberry Pi 5 and learning FastAPI and QML.
+
+**Featured project:** a home voice assistant that runs entirely on a Raspberry Pi 5, with a touchscreen and smart light control (Python + FastAPI + WebSocket, PySide6 / QML interface, Tuya devices via tinytuya). *In progress.*
+
+**Projects**
+- [Tareas: AI → Jira](https://github.com/riveoca/tareas) – FastAPI + AI (Claude / Ollama) + Jira Cloud: breaks work down into tasks and tracks sprint progress
+- [Schedule and user management](https://github.com/riveoca/proyecto_practicas_laravel) – Laravel 12 + FullCalendar + JWT API
+- **Data extraction and APIs** – Python + scraping + Postman (internship at Servitel, private code)
+- [Personal portfolio](https://github.com/riveoca/riveoca.github.io) – HTML + CSS + JavaScript
