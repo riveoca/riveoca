@@ -75,6 +75,7 @@ Asistente de voz casero que corre por completo en una Raspberry Pi 5, con pantal
 
 ## Contacto
 <p>
+  <a href="https://www.linkedin.com/in/iker-santiago-rivera-ocampo-1999992b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:iker.santiago.rivera@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://riveoca.github.io"><img src="https://img.shields.io/badge/Portafolio-0E1A2E?style=for-the-badge&logo=githubpages&logoColor=F2A900"/></a>
   <a href="https://docs.google.com/document/d/1eE8g6vDCdR7_pvfHdOBdDVuwk4oe_9WVJvGZGj9wXfw/export?format=pdf"><img src="https://img.shields.io/badge/CV-PDF-F2A900?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
@@ -100,3 +101,5 @@ Asistente de voz casero que corre por completo en una Raspberry Pi 5, con pantal
 - [Schedule and user management](https://github.com/riveoca/proyecto_practicas_laravel) – Laravel 12 + FullCalendar + JWT API
 - **Data extraction and APIs** – Python + scraping + Postman (internship at Servitel, private code)
 - [Personal portfolio](https://github.com/riveoca/riveoca.github.io) – HTML + CSS + JavaScript
+
+**Contact:** [Email](mailto:iker.santiago.rivera@gmail.com) · [LinkedIn](https://www.linkedin.com/in/iker-santiago-rivera-ocampo-1999992b3/) · [Portfolio](https://riveoca.github.io)
